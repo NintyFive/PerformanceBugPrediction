@@ -4,7 +4,7 @@
     * **Requirements**
         * R version 3.4.4 or newer
         * Library [beanplot](https://cran.r-project.org/web/packages/beanplot/beanplot.pdf) version 1.2 or newer
-        * Library [effsize](https://pandas.pydata.org) version 0.8.1 or newer
+        * Library [effsize](https://cran.r-project.org/web/packages/effsize/effsize.pdf) version 0.8.1 or newer
         
     * **Files description**
         *  **non-perf_bugs and perf_bugs** folders contain the sample data of the non-performance bug reports and performance bug reports from GitHub project [Elastisearch](https://github.com/elastic/elasticsearch). The full dataset of bug reports from the 80 studied GitHub projects is hosted on [Onedrive](https://queensuca-my.sharepoint.com/:f:/r/personal/17gz2_queensu_ca/Documents/Bug%20Reports?csf=1&web=1&e=Yg5dQo).
